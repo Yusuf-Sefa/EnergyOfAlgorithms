@@ -1,6 +1,6 @@
 # EnergyOfAlgorithms
-**Dynamic Programming Algorithms
-**
+Dynamic Programming Algorithms
+
 Dynamic programming is a method that solves complex problems by breaking them down into smaller subproblems,
 
 and prevents recalculation by storing the results of these subproblems (Bellman, 1957). This approach is frequently used, especially in optimization problems.
